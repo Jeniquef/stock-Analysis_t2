@@ -1,7 +1,7 @@
 # stock-Analysis_t2
 
-
-Project Title: Stock Analysis about American phone market
+![anne-nygard-tcJ6sJTtTWI-unsplash](https://github.com/user-attachments/assets/97b19cc5-77df-4a02-9a41-f6f815d2c078)
+**Project Title: Stock Analysis about American phone market**
 
 
 Team Members:
