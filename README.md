@@ -17,8 +17,9 @@ For our first group project of Data Science Bootcamp, we chose to analyze Apple 
 •	Provide insights into their business models.
 •	Understand the recovery strategies.
 
-![image](https://github.com/user-attachments/assets/e019e8e9-29cd-4ea6-8d7d-6af10f74dd22)
-
+Data Source:
+Yahoo Finance
+Statista.com
 
 
 
@@ -29,7 +30,5 @@ Research Questions:
 4.	How did Apple and Samsung perform compared to the overall technology sector during the pandemic?
 5.	Was there an increase in stock price volatility for Apple and Samsung during the pandemic compared to pre – Covid period?
 6.	Which phone company performed best before, during and after the pandemic?
-Datasets to be used:
-yahoo finance
-Statista.com
+
 
