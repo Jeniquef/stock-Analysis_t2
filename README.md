@@ -17,7 +17,7 @@ For our first group project of Data Science Bootcamp, we chose to analyze Apple 
 •	Provide insights into their business models.
 •	Understand the recovery strategies.
 
-Data Source:
+**Data Source:**
 
 Yahoo Finance
 
