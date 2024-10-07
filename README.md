@@ -18,6 +18,7 @@ For our first group project of Data Science Bootcamp, we chose to analyze Apple 
 •	Understand the recovery strategies.
 
 Data Source:
+
 Yahoo Finance
 
 Statista.com
