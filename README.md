@@ -19,6 +19,7 @@ For our first group project of Data Science Bootcamp, we chose to analyze Apple 
 
 Data Source:
 Yahoo Finance
+
 Statista.com
 
 
