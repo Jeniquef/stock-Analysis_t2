@@ -10,11 +10,19 @@ Team Members:
 3.	Jenique Fahie
 4.	Madhuri Vinay
 
+For our first group project of Data Science Bootcamp, we chose to analyze Apple and Samsung stock performance during Covid !9 pandemic and its comparison with other tech companies. This analysis is important as it helps to:
+•	Understand market resilience under stress
+•	Identify how these companies adjusted to challenges such as supply chain disruptions, lockdowns and consumer behaviour.
+•	reveal how investor sentiment evolved with changes in economic conditions, public health measures, and financial stimulus.
+•	Provide insights into their business models.
+•	Understand the recovery strategies.
 
-Project description:
-Comparison of stock performance across multiple phone companies within US  pre and post- Covid-19
+![image](https://github.com/user-attachments/assets/e019e8e9-29cd-4ea6-8d7d-6af10f74dd22)
 
-Research Questions?
+
+
+
+Research Questions:
 1.	How did Apple and Samsung’s stock prices trend before, during and after the Covid-19 pandemic?
 2.	Did the trading volume of Apple and Samsung increase or decrease during the pandemic?
 3.	How long did it take for apple and Samsung to reach to pre pandemic levels?
